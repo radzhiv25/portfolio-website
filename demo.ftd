@@ -1,0 +1,11 @@
+-- import: fifthtry.github.io/doc-site as ds
+-- import: expander/assets
+
+-- ds.page: Rajeev Krishna
+
+ site-logo: $assets.files.images.logo.svg 
+
+-- ftd.text: Hey, there this is Rajeev I am frontend developer and a pre-final year student.I like cloning websites and creating UI for the website using tools and technologies like figma and frontend based frameworks. 
+color: white  
+
+-- end: ds.page
