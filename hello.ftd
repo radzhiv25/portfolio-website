@@ -1,0 +1,23 @@
+-- ftd.text: Hello World
+style: italic, regular
+padding.px: 10
+color: red
+align-self: center
+
+-- ftd.text: Hey, this is Rajeev
+padding.px: 10
+color: blue
+margin.px: 10
+align-self: center
+border-width.px: 1
+
+-- component description:
+
+-- ftd.text: Hey this is Rajeev, I am frontend Developer
+color: black
+padding.px: 10
+align-self: center
+border-width.px: 1
+
+-- end: description
+-- description:
